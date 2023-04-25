@@ -1,5 +1,26 @@
 {
+  "name": "jest-test",
   "dependencies": {
     "init": "^0.1.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriy-o/Jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriy-o/Jest-test/issues"
+  },
+  "homepage": "https://github.com/yuriy-o/Jest-test#readme",
+  "description": ""
 }
